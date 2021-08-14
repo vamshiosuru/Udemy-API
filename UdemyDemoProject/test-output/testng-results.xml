@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10485" started-at="2021-08-14T04:02:02Z" finished-at="2021-08-14T04:02:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10485" started-at="2021-08-14T04:02:02Z" finished-at="2021-08-14T04:02:13Z">
+      <class name="AddbookLIBusingHASHMAP">
+        <test-method status="PASS" signature="Addbook()[pri:0, instance:AddbookLIBusingHASHMAP@2b98378d]" name="Addbook" duration-ms="10424" started-at="2021-08-14T09:32:02Z" finished-at="2021-08-14T09:32:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addbook -->
+      </class> <!-- AddbookLIBusingHASHMAP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
